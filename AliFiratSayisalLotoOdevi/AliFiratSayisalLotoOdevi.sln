@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliFiratListboxOdevi", "AliFiratListboxOdevi\AliFiratListboxOdevi.csproj", "{3678CD6F-B04B-46A7-A110-15351F7DFAAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliFiratSayisalLotoOdevi", "AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi.csproj", "{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3678CD6F-B04B-46A7-A110-15351F7DFAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3678CD6F-B04B-46A7-A110-15351F7DFAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3678CD6F-B04B-46A7-A110-15351F7DFAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3678CD6F-B04B-46A7-A110-15351F7DFAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {87EB0BB2-1CFC-4AA7-A2BD-FE29491EBFC8}
+		SolutionGuid = {CE6A7E6E-97B2-477F-A485-3110554AF616}
 	EndGlobalSection
 EndGlobal

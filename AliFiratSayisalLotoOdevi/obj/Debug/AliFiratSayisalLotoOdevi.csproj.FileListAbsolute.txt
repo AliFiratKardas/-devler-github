@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\bin\Debug\AliFiratSayisalLotoOdevi.exe.config
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\bin\Debug\AliFiratSayisalLotoOdevi.exe
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\bin\Debug\AliFiratSayisalLotoOdevi.pdb
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.Form1.resources
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.Properties.Resources.resources
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.exe
+C:\Users\firat\source\repos\AliFiratSayisalLotoOdevi\AliFiratSayisalLotoOdevi\obj\Debug\AliFiratSayisalLotoOdevi.pdb

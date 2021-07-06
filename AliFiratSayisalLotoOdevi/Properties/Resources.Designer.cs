@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace AliFiratListboxOdevi.Properties
+namespace AliFiratSayisalLotoOdevi.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace AliFiratListboxOdevi.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("AliFiratListboxOdevi.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("AliFiratSayisalLotoOdevi.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

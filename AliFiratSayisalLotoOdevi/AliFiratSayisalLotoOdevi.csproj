@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3678CD6F-B04B-46A7-A110-15351F7DFAAC}</ProjectGuid>
+    <ProjectGuid>{2ECD7FBC-CA91-40A9-B96A-AB04C7004CF6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>AliFiratListboxOdevi</RootNamespace>
-    <AssemblyName>AliFiratListboxOdevi</AssemblyName>
+    <RootNamespace>AliFiratSayisalLotoOdevi</RootNamespace>
+    <AssemblyName>AliFiratSayisalLotoOdevi</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
