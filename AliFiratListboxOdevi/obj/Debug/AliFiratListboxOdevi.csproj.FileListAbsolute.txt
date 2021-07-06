@@ -1,0 +1,10 @@
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\bin\Debug\AliFiratListboxOdevi.exe.config
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\bin\Debug\AliFiratListboxOdevi.exe
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\bin\Debug\AliFiratListboxOdevi.pdb
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.Form1.resources
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.Properties.Resources.resources
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.exe
+C:\Users\firat\source\repos\AliFiratListboxOdevi\AliFiratListboxOdevi\obj\Debug\AliFiratListboxOdevi.pdb
